@@ -1,6 +1,5 @@
 import logging
 
-
 def main():
     operations_count = 0
     ask_again = True
